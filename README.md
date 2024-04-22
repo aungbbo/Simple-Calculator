@@ -2,9 +2,9 @@
 
 This is a basic calculator application built using JavaFX. It allows you to perform addition, subtraction, multiplication, division, and modulo operations.
 
-#### Getting Started
+### Getting Started
 
-##### Prerequisites:
+#### Prerequisites:
 
 - Java Development Kit (JDK) installed on your system. (https://www.oracle.com/java/technologies/downloads/)
 
@@ -15,7 +15,7 @@ This is a basic calculator application built using JavaFX. It allows you to perf
 3. Build and run the Main class.
 4. The calculator window should appear.
 
-##### Using the Calculator
+#### Using the Calculator
 
 - Enter numbers using the numeric buttons (0-9).
 - Use the arithmetic operator buttons (+, -, \*, /, %) to perform calculations.
@@ -23,10 +23,10 @@ This is a basic calculator application built using JavaFX. It allows you to perf
 - Click the "+/-" button to negate the current number.
 - The result of the calculation will be displayed in the text field.
 
-##### Note:
+#### Note:
 
 This is a simple example and may not handle complex calculations or error cases.
 
-#### License
+### License
 
 This project is provided under the MIT License: https://opensource.org/license/mit
