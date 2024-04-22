@@ -1,0 +1,23 @@
+.button{
+    -fx-text-fill: white;
+    -fx-font: Arial 20px;
+}
+
+.button-right{
+    -fx-background-color: #FF950C;
+    -fx-font-size: 25px;
+}
+
+.button-top{
+    -fx-background-color: #37393F;
+}
+
+.button-bottom{
+    -fx-background-color: #7A7A7A;
+}
+
+.text-field{
+    -fx-background-color: #4b4b4b;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 30px;
+}
