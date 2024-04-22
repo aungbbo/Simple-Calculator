@@ -1,4 +1,4 @@
-## Simple Calculator with JavaFX
+# Simple Calculator with JavaFX
 
 This is a basic calculator application built using JavaFX. It allows you to perform addition, subtraction, multiplication, division, and modulo operations.
 
@@ -8,7 +8,7 @@ This is a basic calculator application built using JavaFX. It allows you to perf
 
 - Java Development Kit (JDK) installed on your system. (https://www.oracle.com/java/technologies/downloads/)
 
-##### Running the Application:
+#### Running the Application:
 
 1. Clone or download this repository.
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA).
